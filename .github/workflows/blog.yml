@@ -1,9 +1,9 @@
 name: Update Blog Post
 on:
   workflow_dispatch:
-  # schedule:
+  schedule:
     # Runs at 00:00AM UTC
-    # - cron: '00 05 * * *'
+    - cron: '00 00 * * *'
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts

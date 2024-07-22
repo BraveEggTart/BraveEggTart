@@ -2,9 +2,9 @@ name: Update SNK
 
 on:
   workflow_dispatch:
-  # schedule:
+  schedule:
     # Runs at 0:00 CST
-    # - cron: '00 05 * * *'
+    - cron: '00 00 * * *'
 jobs:
   update-readme:
     name: Update SNK
