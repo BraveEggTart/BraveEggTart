@@ -66,7 +66,11 @@ I am a Full-stack Web Developer passionate about enhancing User Experiences thro
 
 ### My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-
+- [极端优雅的世界](https://just4dream.club/dejavu/)
+- [Links](https://just4dream.club/links/)
+- [数据库主键选择](https://just4dream.club/posts/2024-06-29-UUID.html)
+- [Nginx负载均衡策略](https://just4dream.club/posts/2022-05-15-Nginx.html)
+- [Nginx指南](https://just4dream.club/posts/2021-04-01-Nginx.html)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://just4dream.club/)
