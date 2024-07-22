@@ -71,9 +71,9 @@ I am a Full-stack Web Developer passionate about enhancing User Experiences thro
 ▶ [... view more](https://just4dream.club/)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BraveEggTart/BraveEggTart/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BraveEggTart/BraveEggTart/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BraveEggTart/BraveEggTart/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BraveEggTart/BraveEggTart/0904903de7dc192445a3eb38e1883516846882dd/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BraveEggTart/BraveEggTart/0904903de7dc192445a3eb38e1883516846882dd/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BraveEggTart/BraveEggTart/0904903de7dc192445a3eb38e1883516846882dd/github-snake.svg">
 </picture>
 
 📊 **This Week I Spent My Time On** 
