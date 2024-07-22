@@ -66,11 +66,6 @@ I am a Full-stack Web Developer passionate about enhancing User Experiences thro
 
 ### My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://apoorvtyagi.tech/going-vernacular-engineering-our-way-to-process-multilingual-names)
-- [How to Keep Your Package Dependencies Up to Date on Azure DevOps](https://apoorvtyagi.tech/how-to-keep-your-package-dependencies-up-to-date-on-azure-devops)
-- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://apoorvtyagi.tech/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway)
-- [Building Resilient Systems: Retry Pattern in Microservices](https://apoorvtyagi.tech/building-resilient-systems-retry-pattern-in-microservices)
-- [How to Choose The Right Database for Your Application](https://apoorvtyagi.tech/how-to-choose-the-right-database-for-your-application)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://just4dream.club/)
@@ -80,8 +75,6 @@ I am a Full-stack Web Developer passionate about enhancing User Experiences thro
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BraveEggTart/BraveEggTart/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BraveEggTart/BraveEggTart/output/github-snake.svg">
 </picture>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 📊 **This Week I Spent My Time On** 
 
