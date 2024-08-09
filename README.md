@@ -68,9 +68,9 @@ I am a Full-stack Web Developer passionate about enhancing User Experiences thro
 <!-- BLOG-POST-LIST:START -->
 - [极端优雅的世界](https://just4dream.club/dejavu/)
 - [Links](https://just4dream.club/links/)
+- [HTTP Header](https://just4dream.club/posts/2024-08-07-Header.html)
 - [数据库主键选择](https://just4dream.club/posts/2024-06-29-UUID.html)
-- [探索互联网公司技术架构的演化之路](https://just4dream.club/posts/2024-05-12-arch.html)
-- [Nginx负载均衡策略](https://just4dream.club/posts/2022-05-15-Nginx.html)
+- [微服务中间件推荐](https://just4dream.club/posts/2024-06-01-Middleware.html)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://just4dream.club/)
